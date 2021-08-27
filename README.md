@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/oData13">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=oData13&show_icons=true&theme=blue-green&include_all_commits=false&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=oData13&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oData13&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
