@@ -1,7 +1,7 @@
  Hello i am yuri
 
 - 🔭 I’m currently working  how ADM
-- 🌱 I’m currently learning  node js
+- 🌱 I’m Beginner
 
 <div>
   <a href="https://github.com/oData13">
